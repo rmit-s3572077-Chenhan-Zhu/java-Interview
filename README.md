@@ -1,6 +1,5 @@
 # java-Interview
 
-J2SE基础：
 
 <h3>1. 九种基本数据类型的大小，以及他们的封装类。</h3>
 Void		Integer(4)	Float(4) 	Double(8)	Char(2)	Byte(1)	
