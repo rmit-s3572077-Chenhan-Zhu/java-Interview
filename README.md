@@ -2,10 +2,10 @@
 
 
 <h3>1. 九种基本数据类型的大小，以及他们的封装类。</h3>
-Void		Integer(4)	Float(4) 	Double(8)	Char(2)	Byte(1)	
-void 	            Int		float		double		char 		byte
-Short(2)	Long(8)	Boolean
-short 		long		boolean
+Void		Integer(4)	Float(4) 	Double(8)	Char(2)	Byte(1)	</br>
+void 	            Int		float		double		char 		byte</br>
+Short(2)	Long(8)	Boolean</br>
+short 		long		boolean</br>
 
 <h3>2. Switch能否用string做参数？</h3>
 可以，以及其他可以转换为int的数据类型，boolean。
